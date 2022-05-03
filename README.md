@@ -1,0 +1,2 @@
+- 💻 Desenvolvedor Front-end
+- 📚 Estudando Reactjs
